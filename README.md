@@ -1,6 +1,6 @@
 # yandeh
 
-**Teste para verificar o tempo de atualização do Github
+**Teste para verificar se vai atualizar novamente
 # Summary
 
 ### Getting Started
