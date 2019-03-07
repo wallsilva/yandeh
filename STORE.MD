@@ -1,5 +1,5 @@
 # Stores
-## Stores da loja
+## Stores | loja
 
 Lojas	 	
 
