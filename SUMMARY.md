@@ -22,7 +22,3 @@
     * [Tables](syntax/markdown.md#tables)
     * [Code](syntax/markdown.md#code)
     * [HTML](syntax/markdown.md#html)
-    * [Footnotes](syntax/markdown.md#footnotes)
-* [AsciiDoc](syntax/asciidoc.md)
-* [eBook and PDF](ebook.md)
-
