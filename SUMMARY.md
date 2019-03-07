@@ -1,8 +1,11 @@
-# Sumário
+# Table of contents
 
-### Entidades
+* [Introduction](README.md)
+* [Untitled](untitled.md)
 
-* [Stores](STORE.MD)
-* [Markdown](syntax/markdown.md)
-    * [Headings](syntax/markdown.md#headings)
-    
+## Entidades
+
+* [Stores](entidades/store.md)
+* [Markdown](entidades/markdown/README.md)
+  * [Headings](entidades/markdown/headings.md)
+
