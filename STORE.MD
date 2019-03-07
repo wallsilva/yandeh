@@ -1,5 +1,5 @@
 # Stores
-## Stores | loja
+## Stores | Loja
 
 Lojas	 	
 
@@ -13,4 +13,6 @@ Lojas
               SELECT id AS "id", 
               cnpj      AS "cnpj" 
               FROM   view_stores 
+         
+         
          
