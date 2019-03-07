@@ -1,13 +1,8 @@
-# Summary
-
-### Getting Started
-
-* [Veja nossas dicas](README.md)
-* [Installation and Setup](setup.md)
+# Sumário
 
 ### Entidades
 
-* [Stores](STORES.MD)
+* [Stores](STORE.MD)
 * [Markdown](syntax/markdown.md)
     * [Headings](syntax/markdown.md#headings)
     
