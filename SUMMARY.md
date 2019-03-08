@@ -6,6 +6,6 @@
 ## Entidades
 
 * [Stores](entidades/store.md)
-* [Markdown](entidades/markdown/README.md)
-  * [Headings](entidades/markdown/headings.md)
+* [Sellin](sellin.md)
+
 
