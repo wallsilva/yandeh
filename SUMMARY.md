@@ -21,7 +21,7 @@
   * [Sellin](sellin.md)
    * [Sellin - Itens](Sellin-Items.md)
    * [Sellin - Payment](Sellin-payment.md)
-   * [Sellin - Installments](Sellin-installments.md)
+   * [Sellin - Installments](Sellin-Installments.md)
 * [FAQ](faq.md)
 
 ## API Rest
