@@ -8,5 +8,6 @@
 * [Stores](entidades/store.md)
 * [Sellin](sellin.md)
   * [Sellin - Itens](Sellin-Items.md)
-
+  * [Sellin - Payment](Sellin-payment.md)
+  * [Sellin - Installments](Sellin-installments.md)
 
