@@ -96,15 +96,13 @@
 <td>–</td>
 </tr>
 </tbody>
-</table><p>payment.sql</p>
-<p>dasduasudhusduh</p>
-<pre><code>SELECT store_id           AS "store_id", 
-       sellin_timestamp   AS "sellin_timestamp", 
-       id                 AS "id", 
-       payment_id         AS "payment_id", 
-       installment_number AS "installment_number", 
-       amount             AS "amount", 
-       payment_term       AS "payment_term" 
-FROM   view_sellin_payment_installments
+</table><pre><code>SELECT store_id           AS "store_id", 
+   sellin_timestamp   AS "sellin_timestamp", 
+   id                 AS "id", 
+   payment_id         AS "payment_id", 
+   installment_number AS "installment_number", 
+   amount             AS "amount", 
+   payment_term       AS "payment_term" 
+   FROM   view_sellin_payment_installments
 </code></pre>
 
