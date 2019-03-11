@@ -97,20 +97,18 @@
 </tr>
 </tbody>
 </table><p>payment.sql</p>
-<pre><code>SELECT store_id           AS "store_id", 
-       sellin_timestamp   AS "sellin_timestamp", 
-       id                 AS "id", 
-       payment_id         AS "payment_id", 
-       installment_number AS "installment_number", 
-       amount             AS "amount", 
-       payment_term       AS "payment_term" 
-FROM   view_sellin_payment_installments
-
-/*                                Instruções Obrigatórias
-    "store_id"            Se refere ao mesmo id retornado na consulta de "stores".
-    "sellin_timestamp"   Se refere a data de emissao do documento fiscal. Permanecer no padrão ISO 8601 'yyyy-mm-dd hh:mm:ss'
-    "id"                 Se refere a identificação de registro único. É o mesmo 'id' utilizado na consulta 'sellin'.
-    "payment_id"         Se refere a identificação de registro único do pagamento para o determinado sellin. Precisa ter o mesmo valor
-                         de registro que foi utilizado na consulta pai 'payment'.
-</code></pre>
+<p>SELECT store_id           AS “store_id”,<br>
+sellin_timestamp   AS “sellin_timestamp”,<br>
+id                 AS “id”,<br>
+payment_id         AS “payment_id”,<br>
+installment_number AS “installment_number”,<br>
+amount             AS “amount”,<br>
+payment_term       AS “payment_term”<br>
+FROM   view_sellin_payment_installments</p>
+<p>/*                                Instruções Obrigatórias<br>
+“store_id”            Se refere ao mesmo id retornado na consulta de “stores”.<br>
+“sellin_timestamp”   Se refere a data de emissao do documento fiscal. Permanecer no padrão ISO 8601 ‘yyyy-mm-dd hh:mm:ss’<br>
+“id”                 Se refere a identificação de registro único. É o mesmo ‘id’ utilizado na consulta ‘sellin’.<br>
+“payment_id”         Se refere a identificação de registro único do pagamento para o determinado sellin. Precisa ter o mesmo valor<br>
+de registro que foi utilizado na consulta pai ‘payment’.</p>
 
