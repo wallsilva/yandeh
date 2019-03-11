@@ -17,7 +17,7 @@
 * [Características da Solução](coletor-caract.md)
 * [Meios para Buscar os Dados](buscar-dados.md)
 * [Tabelas detalhadas e exemplos](tabelas.md)
-  * [Stores](entidades/store.md)
+  * [Stores](store.md)
   * [Sellin](sellin.md)
    * [Sellin - Itens](Sellin-Items.md)
    * [Sellin - Payment](Sellin-payment.md)
