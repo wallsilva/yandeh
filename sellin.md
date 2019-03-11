@@ -22,7 +22,7 @@
 <td><strong>store_id</strong>*</td>
 <td><strong>Identificador interno da loja</strong></td>
 <td><strong>integer ou string</strong></td>
-<td>** – **</td>
+<td><strong>–</strong></td>
 <td><strong>1</strong></td>
 </tr>
 <tr>
