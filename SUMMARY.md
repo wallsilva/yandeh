@@ -27,12 +27,12 @@
    * [Sellin - Itens](Sellin-Items.md)
    * [Sellin - Payment](Sellin-payment.md)
    * [Sellin - Installments](Sellin-installments.md)
-* [FAQ] (faq.md)
+* [FAQ](faq.md)
 
 # API Rest
 * [Caracteristica da Solução](conceito-API.md)
 * [Glossário](glossario-api.md)
 * [Certificado e Segurança](cert-seg.md)
 * [Ferramentas para Integração](ferramentas-integracao.md)
-* [FAQ] (faq.md)
+* [FAQ](faq.md)
 
