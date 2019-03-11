@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="sellin---compras-de-fornecedor">SellIn - Compras de Fornecedor</h1>
+<h1 id="sellin---compras-de-fornecedor-itens">SellIn - Compras de Fornecedor (Itens)</h1>
 <p>Modelo de Dados - Sellin-Items</p>
 <h3 id="sellin---itens">SellIn - Itens</h3>
 
