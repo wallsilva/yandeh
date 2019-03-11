@@ -3,6 +3,9 @@
 
 ---
 
+<h1 id="sellin---compras-de-fornecedor-condição-de-pagamento">SellIn - Compras de Fornecedor (Condição de Pagamento)</h1>
+<p>Modelo de Dados - Sellin - Installments</p>
+<h3 id="forma-de-pagamento">Forma de Pagamento</h3>
 
 <table>
 <thead>
@@ -44,53 +47,18 @@
 <td>–</td>
 </tr>
 <tr>
-<td>method*</td>
-<td>Método de Pagamento</td>
-<td>string</td>
+<td>amount*</td>
+<td>Valor da parcela</td>
+<td>float</td>
 <td>–</td>
-<td>“Boleto”</td>
+<td>129.9</td>
 </tr>
 <tr>
-<td>bin</td>
-<td>BIN [6 Primeiros dígitos do cartão]</td>
-<td>string</td>
+<td>payment_term*</td>
+<td>Prazo do pagamento da parcela em dias</td>
+<td>integer</td>
 <td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>ccflag_id</td>
-<td>Código da bandeira do cartão</td>
-<td>string</td>
-<td>tamanho máximo de 50 caracteres</td>
-<td>“19389238”</td>
-</tr>
-<tr>
-<td>condition*</td>
-<td>Condição de pagamento</td>
-<td>string</td>
-<td>–</td>
-<td>“Parcelado”</td>
-</tr>
-<tr>
-<td>operation_id</td>
-<td>Código da operação financeira</td>
-<td>string</td>
-<td>–</td>
-<td>“92389328”</td>
-</tr>
-<tr>
-<td>nsu</td>
-<td>NSU</td>
-<td>string</td>
-<td>–</td>
-<td>–</td>
-</tr>
-<tr>
-<td>authorization</td>
-<td>Autorização da transação</td>
-<td>string</td>
-<td>–</td>
-<td>–</td>
+<td>30</td>
 </tr>
 </tbody>
 </table>
