@@ -21,7 +21,7 @@
 # Coletor ERP
 * [Características da Solução](coletor-caract.md)
 * [Meios para Buscar os Dados](buscar-dados.md)
-* [Tabelas detalhadas e exemplos]
+* [Tabelas detalhadas e exemplos](tabelas.md)
   * [Stores](entidades/store.md)
   * [Sellin](sellin.md)
    * [Sellin - Itens](Sellin-Items.md)
