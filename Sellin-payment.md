@@ -97,6 +97,7 @@
 </tr>
 </tbody>
 </table><p>payment.sql</p>
+<p>dasduasudhusduh</p>
 <pre><code>SELECT store_id           AS "store_id", 
        sellin_timestamp   AS "sellin_timestamp", 
        id                 AS "id", 
@@ -105,12 +106,5 @@
        amount             AS "amount", 
        payment_term       AS "payment_term" 
 FROM   view_sellin_payment_installments
-
-/*                                Instruções Obrigatórias
-    "store_id"            Se refere ao mesmo id retornado na consulta de "stores".
-    "sellin_timestamp"   Se refere a data de emissao do documento fiscal. Permanecer no padrão ISO 8601 'yyyy-mm-dd hh:mm:ss'
-    "id"                 Se refere a identificação de registro único. É o mesmo 'id' utilizado na consulta 'sellin'.
-    "payment_id"         Se refere a identificação de registro único do pagamento para o determinado sellin. Precisa ter o mesmo valor
-                         de registro que foi utilizado na consulta pai 'payment'.
 </code></pre>
 
