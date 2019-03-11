@@ -96,14 +96,4 @@
 <td>–</td>
 </tr>
 </tbody>
-</table><blockquote>
-<p>SELECT store_id           AS “store_id”,<br>
-sellin_timestamp   AS “sellin_timestamp”,<br>
-id                 AS “id”,<br>
-payment_id         AS “payment_id”,<br>
-installment_number AS “installment_number”,<br>
-amount             AS “amount”,<br>
-payment_term       AS “payment_term”<br>
-FROM   view_sellin_payment_installments</p>
-</blockquote>
-
+</table>
