@@ -29,8 +29,8 @@
 <td><strong>id</strong>*</td>
 <td><strong>Identificador (NF) da compra</strong></td>
 <td><strong>string</strong></td>
-<td>tamanho máximo de 50 caracteres</td>
-<td>“RCNTH345987”</td>
+<td><strong>tamanho máximo de 50 caracteres</strong></td>
+<td><strong>“RCNTH345987”</strong></td>
 </tr>
 <tr>
 <td>supplier_taxpayer_id*</td>
@@ -157,48 +157,6 @@
 <td>float</td>
 <td>–</td>
 <td>2.9</td>
-</tr>
-</tbody>
-</table><hr>
-
-<table>
-<thead>
-<tr>
-<th>Campo</th>
-<th>Descrição</th>
-<th>Tipo</th>
-<th>Restrições</th>
-<th>Exemplo</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Teste compartilhamento</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
