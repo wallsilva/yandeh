@@ -31,4 +31,3 @@
 * [Certificado e Segurança](cert-seg.md)
 * [Ferramentas para Integração](ferramentas-integracao.md)
 * [FAQ](faq.md)
-
