@@ -1,14 +1,12 @@
 ---
-description: Vendas para Clientes
+description: Modelo de Dados - "SellOut" | Vendas para Clientes
 ---
 
 # Sellout \(Vendas\)
 
-| Esta entidade tem como registros cada uma das vendas realizadas para os clientes. Esta entidade está preparada para descrever cada um dos seguintes tipos fiscais: ECF, CF-e, NF-e e NFC-e. |
+| A entidade Sellout  tem como registros cada uma das vendas realizadas para os clientes. Estando preparada para descrever cada um dos seguintes tipos fiscais: ECF, CF-e, NF-e e NFC-e. |
 | :--- |
 
-
-Modelo de Dados - "SellOut" \| Vendas para Clientes
 
 ## SellOut <a id="sellin---itens"></a>
 
@@ -157,7 +155,7 @@ Modelo de Dados - "SellOut" \| Vendas para Clientes
     </tr>
     <tr>
       <td style="text-align:left">cancellation_flag*</td>
-      <td style="text-align:left">Indica se esta venda foi cancelada ou n&#xE3;o</td>
+      <td style="text-align:left">Indica se a venda foi cancelada ou n&#xE3;o</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">
         <p>limita-se apenas aos valores:</p>
@@ -183,7 +181,7 @@ Modelo de Dados - "SellOut" \| Vendas para Clientes
     </tr>
     <tr>
       <td style="text-align:left">transaction_type</td>
-      <td style="text-align:left">Indica qual o tipo de transa&#xE7;&#xE3;o realizada</td>
+      <td style="text-align:left">Indica qual tipo de transa&#xE7;&#xE3;o realizada</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">
         <p>limita-se apenas aos valores:</p>
@@ -219,7 +217,7 @@ Modelo de Dados - "SellOut" \| Vendas para Clientes
     </tr>
     <tr>
       <td style="text-align:left">tipo</td>
-      <td style="text-align:left">Indica qual o tipo de documento fiscal</td>
+      <td style="text-align:left">Indica qual tipo de documento fiscal</td>
       <td style="text-align:left">string</td>
       <td style="text-align:left">
         <p>limita-se apenas aos valores:</p>
