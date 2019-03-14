@@ -10,7 +10,7 @@ Lojas
 | cnpj\* | CNPJ da loja | string | Deve ser um CNPJ válido com 14 caracteres | “05345647000122” |
 |  | teste |  |  |  |
 
-## Select de Exemplo
+### Exemplo em SQL:
 
 ```text
           SELECT id AS "id", 
