@@ -5,7 +5,7 @@
 
 <h1 id="daily_sellin_total---valor-total-de-compra-por-dia">Daily_SellIn_Total - Valor total de compra por dia</h1>
 <p>Modelo de Dados -  DAILY-SELLIN</p>
-<h3 id="compra-total-por-dia">Compra total por dia</h3>
+<h2 id="compra-total-por-dia">Compra total por dia</h2>
 
 <table>
 <thead>
