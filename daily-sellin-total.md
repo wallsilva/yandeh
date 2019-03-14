@@ -54,7 +54,7 @@
 <td>123457.93</td>
 </tr>
 </tbody>
-</table><h3 id="exemplo-em-sql">Exemplo em SQL:</h3>
+</table><h3 id="exemplo-da-consulta-em-sql">Exemplo da consulta em SQL:</h3>
 <pre><code>SELECT store_id  AS "store_id", 
        date     AS "date", 
        type     AS "type", 
