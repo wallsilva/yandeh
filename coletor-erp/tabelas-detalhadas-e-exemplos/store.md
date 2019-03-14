@@ -15,6 +15,6 @@ Lojas
 ```text
           SELECT id AS "id", 
           cnpj      AS "cnpj" 
-          FROM   view_stores 
+          FROM   view_stores
 ```
 

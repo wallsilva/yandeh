@@ -1,0 +1,2 @@
+# Caracteristica da Solução
+
