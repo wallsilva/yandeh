@@ -2,7 +2,7 @@
 description: Modelo de Dados - Sellin | Compras de Fornecedor
 ---
 
-# Sellin
+# Sellin \(Compras\)
 
 ## SellIn - Cabeçalho <a id="sellin---cabe&#xE7;alho"></a>
 
