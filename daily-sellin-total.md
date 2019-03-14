@@ -1,3 +1,8 @@
+---
+
+
+---
+
 <h1 id="daily_sellin_total---valor-total-de-compra-por-dia">Daily_SellIn_Total - Valor total de compra por dia</h1>
 <p><em>Modelo de Dados -  DAILY-SELLIN</em></p>
 <h2 id="compra-total-por-dia">Compra total por dia</h2>
@@ -49,6 +54,7 @@
 <td>123457.93</td>
 </tr>
 </tbody>
+<br/>
 </table><h3 id="exemplo-da-consulta-em-sql">Exemplo da consulta em SQL:</h3>
 <pre><code>SELECT store_id  AS "store_id", 
        date     AS "date", 
